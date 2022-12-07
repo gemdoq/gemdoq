@@ -52,21 +52,20 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/gemdoq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Hwan&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemdoq&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/gemdoq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Easy-Hwan&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gemdoq&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
   
 <br>
 <h3 align="center">💡 My Git View Count 💡</h3>
 <p align="center">
-<!-- Git View Count -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgemdoq%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEasy-Hwan&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
