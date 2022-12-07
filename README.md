@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
 
 <h2 align="center"> Hi👋, I'm gemdoq!🤗</h2>
-<h3 align="center">I am junior back-end developer who love think a lot</h3>
+<h3 align="center">I am 🇰🇷 junior back-end developer who love think a lot</h3>
 <p align="center">
   I believe in the strength of communication and collaboration<br/>
   hope the work I do bring good to the world<br/><br/>
-  🇰🇷
+ 
 </p>
 
 <h3 align="center">🍳 Back Tech Stack 🍳</h3>
