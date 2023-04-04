@@ -3,7 +3,6 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,2,3&height=150&section=header&text=HelloWorld!&fontSize=80&animation=twinkling)
   
   <br>
-  <br>
   
   <h2 align="center"> Hi👋, I'm gemdoq!🤗</h2>
   <h3 align="center">I am 🇰🇷 junior back-end developer who love think a lot</h3>
@@ -13,7 +12,6 @@
     hope the work I do bring good to the world<br/><br/>
   </p>
 
-  <br>
   <br>
   
   <h3 align="center">💡 My Git Stats 💡</h3>
@@ -25,60 +23,63 @@
   </p>
   
   <br>
-  <br>
   
   <h3 align="center">🍳 Back Tech Stack 🍳</h3>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/>&nbsp
-    <br>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>&nbsp
-    <br>
-    <img src="https://img.shields.io/badge/ES6-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-005571?style=for-the-badge&logo=ts-node&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/NodeJS-11B48A?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Express-00599C?style=for-the-badge&logo=express&logoColor=white"/>&nbsp
+    <br>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>&nbsp
+    <br>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/>&nbsp
+    
   </p>
    
-  <br>
   <br>
    
   <h3 align="center">💽 DataBase Tech Stack 💽</h3>
    
   <p align="center">
-    <img src="https://img.shields.io/badge/MySql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Maria-00599C?style=for-the-badge&logo=mariadb&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MongoDB-3766AB?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Sequelize-A8B9CC?style=for-the-badge&logo=Sequelize&logoColor=white"/>&nbsp
   </p>
   
   <br>
-  <br>
    
   <h3 align="center">📎 DevOps 📎</h3>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Docker-DB3552?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/AWS-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/GitLab-333664?style=for-the-badge&logo=gitlab&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>&nbsp
+
   </p>
 
   <br>
-  <br>
-   
+  
   <h3 align="center">📺 Front Tech Stack 📺</h3>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/ejs-00599C?style=for-the-badge&logo=AzurePipelines&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Flutter-ffb13b?style=for-the-badge&logo=Flutter&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/React-005571?style=for-the-badge&logo=React&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/ejs-00599C?style=for-the-badge&logo=AzurePipelines&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Flutter-ffb13b?style=for-the-badge&logo=Flutter&logoColor=white"/>&nbsp
+    
   </p>
   
-  <br>
   <br>
   
   <h3 align="center">🛠 Tools 🛠</h3>
@@ -86,44 +87,71 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Android Studio-00599C?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/GitHub-333664?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Android Studio-00599C?style=for-the-badge&logo=android%20studio&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/GitHub-333664?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>&nbsp
+  </p>
 
-  <img src="https://img.shields.io/badge/AWS EC2-232f3e?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS RDS-232f3e?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <br>
   
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <h3 align="center">💪 It's me! 💪</h3>
   
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-
-</p>
-
-<!--
-
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/gemdoq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemdoq&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
-  </a>
-</p>
-
--->
-<br>
-<h3 align="center">💡 My Git View Count 💡</h3>
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEasy-Hwan&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
-</p>
+  <p align="center">
+    <a href="https://gemdoq.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-6666FF?style=for-the-badge&logo=GitLab&logoColor=white"/></a>
+    <a href="gemdoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gemdoq@gmail.com-669966?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  </p>
   
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  ![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2028%20mins-blue)
+  
+  ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-8.3%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=200&section=footer)
+**저는 낮형 인간이에요. 🐤** 
+
+```text
+🌞 아침                     426 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+🌆 낮　                     944 commits         ████████████░░░░░░░░░░░░░   48.48 % 
+🌃 저녁                     303 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌙 밤　                     274 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+💬 프로그래밍 언어들: 
+Java                     3 hrs 45 mins       ██████████████░░░░░░░░░░░   55.00 % 
+Markdown                 2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   37.40 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+🔥 에디터들: 
+IntelliJ                 6 hrs 46 mins       █████████████████████████   98.98 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+💻 운영 체제들: 
+Mac                      6 hrs 50 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 02/04/2023 18:32:39 UTC
+<!--END_SECTION:waka-->
+  
+  <br>
+  
+  <h3 align="center">💡 My Git View Count 💡</h3>
+  
+  <p align="center"></p>  
+    <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEasy-Hwan&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
+  
+  <br>
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=170&section=footer)
+</div>
