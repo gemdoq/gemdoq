@@ -5,7 +5,7 @@
   <br>
   
   <h2 align="center"> Hi👋, I'm gemdoq!🤗</h2>
-  <h3 align="center">I am 🇰🇷 junior back-end developer who love think a lot</h3>
+  <h3 align="center">I am 🇰🇷 junior back-end developer who loves to think a lot</h3>
   
   <p align="center">
     I believe in the strength of communication and collaboration<br/>
