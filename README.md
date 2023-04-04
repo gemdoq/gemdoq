@@ -48,8 +48,11 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>&nbsp
+    
   </p>
   
   <br>
@@ -58,16 +61,15 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=for-the-badge&logo=Amazon API Gateway&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon CloudWatch&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/GitLab-333664?style=for-the-badge&logo=gitlab&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>&nbsp
+    <br>
+    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon CloudWatch&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=for-the-badge&logo=Amazon API Gateway&logoColor=white"/>&nbsp
+    <br>
     <img src="https://img.shields.io/badge/CloudFlare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>&nbsp
   </p>
 
