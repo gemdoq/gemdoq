@@ -14,16 +14,6 @@
 
   <br>
   
-  <h3 align="center">✨ My Git Stats ✨</h3>
-  
-  <p align="center">
-    <a href="https://github.com/gemdoq">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gemdoq&hide=contribs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
-    </a>
-  </p>
-  
-  <br>
-  
   <h3 align="center">💻 Back Tech Stack 💻</h3>
   
   <p align="center">
@@ -121,8 +111,6 @@
   <h3 align="center">💪 It's me! 💪</h3>
   
 <!--START_SECTION:waka-->
-  ![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2028%20mins-blue)
-  
   ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-8.3%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 ```text
@@ -150,13 +138,34 @@ VS Code                  4 mins              ░░░░░░░░░░░�
 Mac                      6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
+  ![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2028%20mins-blue)
 
  Last Updated on 02/04/2023 18:32:39 UTC
 <!--END_SECTION:waka-->
   
+  <br>  
+  
+  <h3 align="center">✨ My Git Stats ✨</h3>
+  
+  <p align="center">
+    <a href="https://github.com/gemdoq">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gemdoq&hide=contribs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    </a>
+  </p>
+  
   <br>
   
-  <h3 align="center">❔ More❓ ⁉️ ❔</h3>
+  <h3 align="center">💡 My Git View Count 💡</h3>
+  
+  <p align="center">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgemdoq&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  </p>
+  
+  <br>
+  
+  <h3 align="center">❓ More about me⁉️ ❓</h3>
+  
+  <br>
   
   <p align="center">
     <a href="https://gemdoq.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white"/></a>
@@ -168,12 +177,7 @@ Mac                      6 hrs 50 mins       ███████████�
     <a href="mailto:gemdoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gemdoq@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </p>
   
-  <h3 align="center">💡 My Git View Count 💡</h3>
-  
-  <p align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgemdoq&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  </p>
-  
+  <br>
   <br>
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=170&section=footer)
