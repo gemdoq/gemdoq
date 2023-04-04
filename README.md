@@ -85,14 +85,26 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
-    
-  <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android Studio-00599C?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Android Studio-00599C?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/GitHub-333664?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
+
+  <img src="https://img.shields.io/badge/AWS EC2-232f3e?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS RDS-232f3e?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+
 </p>
 
 <!--
