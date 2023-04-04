@@ -14,7 +14,7 @@
 
   <br>
   
-  <h3 align="center">💡 My Git Stats 💡</h3>
+  <h3 align="center">✨ My Git Stats ✨</h3>
   
   <p align="center">
     <a href="https://github.com/gemdoq">
@@ -24,7 +24,7 @@
   
   <br>
   
-  <h3 align="center">🍳 Back Tech Stack 🍳</h3>
+  <h3 align="center">💻 Back Tech Stack 💻</h3>
   
   <p align="center">
     <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp
@@ -41,7 +41,7 @@
   
   <br>
    
-  <h3 align="center">💽 DataBase Tech Stack 💽</h3>
+  <h3 align="center">🗄️ DataBase Tech Stack 🗄️</h3>
    
   <p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/>&nbsp
@@ -58,7 +58,7 @@
   
   <br>
    
-  <h3 align="center">📎 DevOps 📎</h3>
+  <h3 align="center">🔍 DevOps 🔍</h3>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp
@@ -79,7 +79,7 @@
 
   <br>
   
-  <h3 align="center">📺 Front Tech Stack 📺</h3>
+  <h3 align="center">📱 Front Tech Stack 📱</h3>
   
   <p align="center">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
@@ -156,7 +156,7 @@ Mac                      6 hrs 50 mins       ███████████�
   
   <br>
   
-  <h3 align="center">💡 More About Me 💡</h3>
+  <h3 align="center">❔ More❓ ⁉️ ❔</h3>
   
   <p align="center">
     <a href="https://gemdoq.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white"/></a>
