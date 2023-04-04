@@ -151,7 +151,7 @@ Mac                      6 hrs 50 mins       ███████████�
     <a href="https://gemdoq.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-669966?style=for-the-badge&logo=GitLab&logoColor=003333"/></a>
   </p>
   <p align="center">
-    <a href="https://www.notion.so/everforest/a522ab93de524191b439fbd4d076b53e?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Resume-669966?style=for-the-badge&logo=notion&logoColor=003333"/></a>
+    <a href="https://www.notion.so/everforest/2-1210f2c02004471993959368728c2f3c?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-669966?style=for-the-badge&logo=notion&logoColor=003333"/></a>
   </p>
   <p align="center">
     <a href="gemdoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gemdoq@gmail.com-FF3333?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
