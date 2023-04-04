@@ -18,7 +18,7 @@
   
   <p align="center">
     <a href="https://github.com/gemdoq">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gemdoq&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gemdoq&hide=contribs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
     </a>
   </p>
   
@@ -162,7 +162,7 @@ Mac                      6 hrs 50 mins       ███████████�
     <a href="https://www.notion.so/everforest/2-1210f2c02004471993959368728c2f3c?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   </p>
   <p align="center">
-    <a href="gemdoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gemdoq@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:gemdoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gemdoq@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </p>
   
   <h3 align="center">💡 My Git View Count 💡</h3>
