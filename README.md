@@ -47,12 +47,12 @@
   <p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>&nbsp
+    <br>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>&nbsp
-    
   </p>
   
   <br>
@@ -67,10 +67,12 @@
     <br>
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon CloudWatch&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=for-the-badge&logo=Amazon API Gateway&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon CloudWatch&logoColor=white"/>&nbsp
     <br>
     <img src="https://img.shields.io/badge/CloudFlare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>&nbsp
   </p>
 
   <br>
@@ -149,13 +151,16 @@ Mac                      6 hrs 50 mins       ███████████�
     <a href="https://gemdoq.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-669966?style=for-the-badge&logo=GitLab&logoColor=003333"/></a>
   </p>
   <p align="center">
+    <a href="https://www.notion.so/everforest/a522ab93de524191b439fbd4d076b53e?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Resume-669966?style=for-the-badge&logo=notion&logoColor=003333"/></a>
+  </p>
+  <p align="center">
     <a href="gemdoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gemdoq@gmail.com-FF3333?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </p>
   
   <h3 align="center">💡 My Git View Count 💡</h3>
   
   <p align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEasy-Hwan&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgemdoq&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   </p>
   
   <br>
