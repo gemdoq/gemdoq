@@ -49,10 +49,12 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>&nbsp
     <br>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>&nbsp
+    <br>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>&nbsp
   </p>
   
   <br>
@@ -81,11 +83,13 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>&nbsp
+    <br>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Font Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>&nbsp
   </p>
   
   <br>
@@ -114,8 +118,6 @@
   
   ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-8.3%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
-**저는 낮형 인간이에요. 🐤** 
-
 ```text
 🌞 아침                     426 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
 🌆 낮　                     944 commits         ████████████░░░░░░░░░░░░░   48.48 % 
@@ -124,7 +126,7 @@
 ```
 
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+📊 **How I spend my time**
 
 ```text
 🕑︎ Timezone: Asia/Seoul
@@ -148,7 +150,7 @@ Mac                      6 hrs 50 mins       ███████████�
   <br>
   
   <p align="center">
-    <a href="https://gemdoq.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-669966?style=for-the-badge&logo=GitLab&logoColor=003333"/></a>
+    <a href="https://gemdoq.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white"/></a>
   </p>
   <p align="center">
     <a href="https://www.notion.so/everforest/2-1210f2c02004471993959368728c2f3c?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
