@@ -122,5 +122,8 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEasy-Hwan&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
 </p>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
