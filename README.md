@@ -50,8 +50,8 @@
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>&nbsp
     <br>
     <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/>&nbsp
     <br>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>&nbsp
@@ -100,9 +100,11 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij idea&logoColor=white"/>&nbsp
+    <br>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
+    <br>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp
@@ -148,6 +150,8 @@ Mac                      6 hrs 50 mins       ███████████�
 <!--END_SECTION:waka-->
   
   <br>
+  
+  <h3 align="center">💡 More About Me 💡</h3>
   
   <p align="center">
     <a href="https://gemdoq.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white"/></a>
