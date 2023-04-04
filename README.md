@@ -9,7 +9,7 @@
   
   <p align="center">
     I believe in the strength of communication and collaboration<br/>
-    hope the work I do bring good to the world
+  And I also hope that my work will turn the imagination into reality
   </p>
   
   <br><hr><br>
