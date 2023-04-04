@@ -38,9 +38,8 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/>&nbsp
-    
   </p>
-   
+  
   <br>
    
   <h3 align="center">💽 DataBase Tech Stack 💽</h3>
@@ -49,9 +48,8 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>&nbsp
-    
+    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>&nbsp
   </p>
   
   <br>
@@ -70,7 +68,6 @@
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/GitLab-333664?style=for-the-badge&logo=gitlab&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>&nbsp
-
   </p>
 
   <br>
@@ -84,7 +81,6 @@
     <img src="https://img.shields.io/badge/Font Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>&nbsp
-    
   </p>
   
   <br>
