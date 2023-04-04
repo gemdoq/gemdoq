@@ -108,11 +108,6 @@
   
   <h3 align="center">💪 It's me! 💪</h3>
   
-  <p align="center">
-    <a href="https://gemdoq.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-669966?style=for-the-badge&logo=GitLab&logoColor=003333"/></a>
-    <a href="gemdoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gemdoq@gmail.com-FF3333?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  </p>
-  
 <!--START_SECTION:waka-->
   ![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2028%20mins-blue)
   
@@ -151,11 +146,18 @@ Mac                      6 hrs 50 mins       ███████████�
   
   <br>
   
+  <p align="center">
+    <a href="https://gemdoq.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-669966?style=for-the-badge&logo=GitLab&logoColor=003333"/></a>
+  </p>
+  <p align="center">
+    <a href="gemdoq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gemdoq@gmail.com-FF3333?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  </p>
+  
   <h3 align="center">💡 My Git View Count 💡</h3>
   
-  <p align="center"></p>  
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEasy-Hwan&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
+  <p align="center">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEasy-Hwan&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
+  </p>
   
   <br>
   
