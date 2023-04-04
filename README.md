@@ -68,6 +68,7 @@
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/GitLab-333664?style=for-the-badge&logo=gitlab&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/CloudFlare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>&nbsp
   </p>
 
   <br>
