@@ -24,9 +24,9 @@
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>&nbsp
     <br>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Spring-F2F4F9?style=for-the-badge&logo=Spring"/>&nbsp
+    <img src="https://img.shields.io/badge/Spring Boot-F2F4F9?style=for-the-badge&logo=Spring Boot"/>&nbsp
+    <img src="https://img.shields.io/badge/Spring Security-F2F4F9?style=for-the-badge&logo=Spring Security"/>&nbsp
   </p>
   
   <br>
@@ -73,7 +73,7 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=ts-node&logoColor=white"/>&nbsp
     <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>&nbsp
