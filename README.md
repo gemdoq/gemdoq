@@ -1,11 +1,11 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,2,3&height=150&section=header&text=HelloWorld!&fontSize=70&fontAlign=43&animation=twinkling&desc=welcome&descSize=30&descAlign=75)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,2,3&height=100&section=header&text=experience&fontSize=60&fontAlign=43&animation=twinkling&desc=communicates&descSize=30&descAlign=75)
   
   <br>
   
   <h2 align="center"> Hi👋, I'm gemdoq!🤗</h2>
-  <h3 align="center">I am 🇰🇷 junior back-end developer who loves to think a lot</h3>
+  <h3 align="center">I am 🇰🇷 back-end developer who loves to think a lot and communicates</h3>
   
   <p align="center">
     I believe in the strength of communication and collaboration<br/>
